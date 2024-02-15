@@ -20,19 +20,19 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  name: "Giovanni EK Puc",
+  initials: "GEP",
+  location: "Inglewood California ",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Student of manufacturing have ",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "results-oriented student with hands-on experience in lean manufacturing and process optimization, seeking a position in a high-volume manufacturing environment. Eager to leverage my background in orbital tube welding and my practical experience with continuous improvement projects to drive both local and global efficiencies. Committed to contributing to team success through hard work, attention to detail, and excellent organizational skills." ",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "Gioekpuk@gmail.com",
+    tel: "+424-2400549",
     social: [
       {
         name: "GitHub",
@@ -53,45 +53,54 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Hawthrone High School School of engineering and manufacturing",
+      Studied: - Enrolled in a college-level : Computer Integrated Manufacturing I & II, Engineering and Design I
+& II as a 0 period class, demonstrating strong initiative and a commitment to advanced academic pursuits.
+- Achieved, earning college credits while completing high school.,
+      start: "2014",
+      end: "2020",
+    },
+    {
+      school: "Compton College, Compton, CA",
+      Studied : "• WELD 125 Advanced Certification and Career Preparation Lab
+• WELD 128 American Welding Society (AWS) D1.1 Certification Test Preparation",
+      start: "2018",
+      end: "2021",
     },
   ],
   work: [
     {
-      company: "Parabol",
+      company: "SpaceX",
       link: "https://parabol.co",
       badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      title: "Orbital Tube Welder",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
-      description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
-    },
-    {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
-      badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
-      logo: ClevertechLogo,
-      start: "2015",
+      start: "2019",
       end: "2021",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Worked with small team of to support weekend (12x5s) critcal path by working on repairs , submiting issues and working with eng to disposition issues in a timly manner",
     },
     {
-      company: "Jojo Mobile",
+      company: "Sketch and etch",
+      link: "https://clevertech.biz",
+      badges: ["Remote"],
+      title: "Non explicite production lead",
+      logo: ClevertechLogo,
+      start: "2022",
+      end: "2023",
+      description:
+        "AUS ecom start up attempting to set up opertions in US. lead all aspects of  production from training,production,inventory and importance of driving consenus to deliver continous improvment.",
+    },
+    {
+      company: "Elevated Materials",
       link: "https://bsgroup.eu/",
       badges: [],
-      title: "Android Developer → Lead Android Developer",
+      title: Composite Tech",
       logo: JojoMobileLogo,
       start: "2012",
       end: "2015",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        "supported laying up and pressing of composite flat sheets and marble carbon blocks. Suggsted both local and gobal improvments to CEO such has implemting knowledge managment systemm , & quality imporvements.",
     },
     {
       company: "Nokia Siemens Networks",
@@ -105,15 +114,15 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
+    "Soliwork Modeling",
+    "CNC Machining",
+    "Precision Measuring Skills  ",
+    "Basic Cam",
+    "OTW certifcation by SpaceX",
     "Relay",
     "WebRTC",
   ],
-  projects: [
+  projectsandCapcities: [
     {
       title: "Consultly",
       techStack: [
