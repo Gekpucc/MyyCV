@@ -51,20 +51,20 @@ export const RESUME_DATA = {
       },
     ],
   },
-  education: [
-    {
-      school: "Hawthrone High School School of engineering and manufacturing",
-      Studied: - "Enrolled in a college-level : Computer Integrated Manufacturing I & II, Engineering and Design I & II as a 0 period class, demonstrating strong initiative and a commitment to advanced academic pursuits.Achieved, earning college credits while completing high school.".
-      start: "2014",
-      end: "2020",
-    },
-    {
-      school: "Compton College, Compton, CA",
-      Studied : "• WELD 125 Advanced Certification and Career Preparation Lab, WELD 128 American Welding Society (AWS) D1.1 Certification Test Preparation",
-      start: "2018",
-      end: "2021",
-    },
-  ],
+ education: [
+  {
+    school: "Hawthorne High School School of Engineering and Manufacturing",
+    studied: "Enrolled in college-level courses: Computer Integrated Manufacturing I & II, Engineering and Design I & II. Achieved college credits while completing high school.",
+    start: "2014",
+    end: "2020",
+  },
+  {
+    school: "Compton College, Compton, CA",
+    studied: "Courses included WELD 125 Advanced Certification and Career Preparation Lab, WELD 128 AWS D1.1 Certification Test Preparation.",
+    start: "2018",
+    end: "2021",
+  },
+],
   work: [
     {
       company: "SpaceX",
