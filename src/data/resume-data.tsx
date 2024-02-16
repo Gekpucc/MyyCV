@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Inglewood California ",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:"Student of manufacturing have",
-  summary:"results-oriented student with hands-on experience in lean manufacturing and process optimization, seeking a position in a high-volume manufacturing environment. Eager to leverage my background in orbital tube welding and my practical experience with continuous improvement projects to drive both local and global efficiencies. Committed to contributing to team success through hard work, attention to detail, and excellent organizational skills." ",
+  summary:"results-oriented student with hands-on experience in lean manufacturing and process optimization, seeking a position in a high-volume manufacturing environment. Eager to leverage my background in orbital tube welding and my practical experience with continuous improvement projects to drive both local and global efficiencies. Committed to contributing to team success through hard work, attention to detail, and excellent organizational skills.",
   avatarUrl:"https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
