@@ -24,7 +24,7 @@ export const RESUME_DATA = {
   initials: "GEP",
   location: "Inglewood California ",
   locationLink: "https://www.google.com/maps/place/Wrocław",
-  about:"Student of manufacturing have",
+  about:"Student of manufacturing",
   summary:"results-oriented student with hands-on experience in lean manufacturing and process optimization, seeking a position in a high-volume manufacturing environment. Eager to leverage my background in orbital tube welding and my practical experience with continuous improvement projects to drive both local and global efficiencies. Committed to contributing to team success through hard work, attention to detail, and excellent organizational skills.",
   avatarUrl:"https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
@@ -111,7 +111,7 @@ export const RESUME_DATA = {
   skills: [
     "Soliwork Modeling",
     "CNC Machining",
-    "Precision Measuring Skills  ",
+    "Precision Measuring Skills",
     "Basic Cam",
     "OTW certifcation by SpaceX",
     "Relay",
